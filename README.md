@@ -10,7 +10,8 @@
 ---
 
 ## 🏆 CHAMPION — 1st PRIZE WINNER
-**We are proud to announce that SurgicalAI v3 secured the 1st Prize at Ceaser's Medathon 2026 for its groundbreaking approach to automating surgical training feedback.**
+**We are proud to announce that SurgicalAI v3 secured the 1st Prize at Ceaser's Medathon 2026 for its groundbreaking approach to automating surgical training feedback.(Team Project)
+**
 
 ### 🌟 Why We Won: Key Innovations
 - **ASSET-Standard Compliance**: Unlike generic motion trackers, SurgicalAI implements the *Arthroscopic Surgery Skill Evaluation Tool* (ASSET) standard, providing clinically valid 0-100 scores for Stability, Efficiency, Precision, and Speed.
